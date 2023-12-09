@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load static %}
+{% static "images" as baseUrl %}
+
+{% block content1 %}
+<!-- Banner -->
+<div id="banner">
+    {% if user.is_staff %}
+
+        <h2><strong>eraser:</strong> are you sure?</h2>
+
+        <!-- erase-Button -->
+        <p>deletes all database-msr-objects!</p>
+        <form action="{% url 'eraser' erase_id=1 %}" method="post"> <!--"eraser all" method="post">-->
+            {% csrf_token %}
+            <button class="button large icon solid fa-check-circle">! erase it!</button>
+        </form>
+        <p>deletes all templates in database!</p>
+        <form action="{% url 'eraser' erase_id=2 %}" method="post"> <!--"eraser all" method="post">-->
+            {% csrf_token %}
+            <button class="button large icon solid fa-check-circle">! erase it!</button>
+        </form>
+        <hr>
+        <h2></h2>
+
+    {% else %}
+
+        <h2><strong>Sorry:</strong> you don't got enough permissions!</h2>
+
+    {% endif %}
+
+</div>
+
+{% endblock content1 %}

@@ -1,0 +1,5083 @@
+Projekt:
+Name:	ZugGate
+Nummer:	10373
+Creator:	ravey
+Photo:		
+Users:  
+
+ 
+ Feld:
+ Name:		ZugGate:W‰rme
+ Kurzname:	W‰rme
+ Creator:	ravey
+ Photo:		
+
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:Reserve_Site
+  Kurzname:	Reserve_Site
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device
+   Kurzname:		Reserve_Device
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Funktion:		
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res75
+    Kurzname:		Res75
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		75
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res76
+    Kurzname:		Res76
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		76
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res77
+    Kurzname:		Res77
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		77
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res78
+    Kurzname:		Res78
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		78
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res79
+    Kurzname:		Res79
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		79
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res91
+    Kurzname:		Res91
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		91
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res92
+    Kurzname:		Res92
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		92
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res93
+    Kurzname:		Res93
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		93
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res94
+    Kurzname:		Res94
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		94
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res95
+    Kurzname:		Res95
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		95
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res151
+    Kurzname:		Res151
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		151
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res152
+    Kurzname:		Res152
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		152
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res153
+    Kurzname:		Res153
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		153
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res154
+    Kurzname:		Res154
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		154
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res155
+    Kurzname:		Res155
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		155
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res171
+    Kurzname:		Res171
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		171
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res172
+    Kurzname:		Res172
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		172
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res173
+    Kurzname:		Res173
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		173
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res174
+    Kurzname:		Res174
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		174
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res175
+    Kurzname:		Res175
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		175
+    Wert:		0
+    Einheit:		
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H00
+  Kurzname:	H00
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H00:BT001
+   Kurzname:		BT001
+   Beschrieb:		Aussentemperatur
+   Hersteller:		Siemens
+   Typ:			QAC2021
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H00:BT001:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		300
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H00:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		32
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H31
+  Kurzname:	H31
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:BT111
+   Kurzname:		BT111
+   Beschrieb:		Temperatur prim‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:BT111:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		310
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		33
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:BT112
+   Kurzname:		BT112
+   Beschrieb:		Temperatur prim‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:BT112:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		320
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		34
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:BT121
+   Kurzname:		BT121
+   Beschrieb:		Temperatur sekund‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:BT121:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		330
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		35
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:BT122
+   Kurzname:		BT122
+   Beschrieb:		Temperatur sekund‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:BT122:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		340
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		36
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:FQ100
+   Kurzname:		FQ100
+   Beschrieb:		Wassermelder
+   Hersteller:		Sensortec AG
+   Typ:			SWM3.2 
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:FQ100:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		350
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:FQ100:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		96
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H31:QN120
+   Kurzname:		QN120
+   Beschrieb:		Mischventil sekund‰r
+   Hersteller:		Danfoss
+   Typ:			AME 55 QM
+   Funktion:		app RVTx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H31:QN120:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		360
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:QN120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		80
+    Wert:		0
+    Einheit:		%
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H33
+  Kurzname:	H33
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:BT111
+   Kurzname:		BT111
+   Beschrieb:		Temperatur prim‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:BT111:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		370
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		37
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:BT112
+   Kurzname:		BT112
+   Beschrieb:		Temperatur prim‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:BT112:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		380
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		38
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:BT121
+   Kurzname:		BT121
+   Beschrieb:		Temperatur sekund‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:BT121:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		390
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		39
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:BT122
+   Kurzname:		BT122
+   Beschrieb:		Temperatur sekund‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENF A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:BT122:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		400
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		40
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:FQ120
+   Kurzname:		FQ120
+   Beschrieb:		Wassermelder
+   Hersteller:		Sensortec AG
+   Typ:			SWM3.2 
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:FQ120:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		410
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:FQ120:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		97
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:QN120
+   Kurzname:		QN120
+   Beschrieb:		Durchgangsventil prim‰r
+   Hersteller:		Danfoss
+   Typ:			AME 55 QM
+   Funktion:		app RVTx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:QN120:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		420
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:QN120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		81
+    Wert:		0
+    Einheit:		%
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:QM120
+   Kurzname:		QM120
+   Beschrieb:		Absperrklappe sekund‰r
+   Hersteller:		Siemens
+   Typ:			SAL61.00T40
+   Funktion:		app RVTx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:QM120:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		430
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:QM120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		82
+    Wert:		0
+    Einheit:		%
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H33:GP120
+   Kurzname:		GP120
+   Beschrieb:		Pumpe sekund‰r
+   Hersteller:		Grundfos
+   Typ:			TPE 100-110/4 A-F-A-BQQE-JDA
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:GP120:Speisung
+    Kurzname:		Speisung
+    Seite:		440
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:GP120:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		450
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:GP120:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		460
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H33:GP120:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		470
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		83
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		98
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		99
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		100
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		101
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		156
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H40
+  Kurzname:	H40
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT001
+   Kurzname:		BT001
+   Beschrieb:		Temperatur 1
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT001:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		480
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		41
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT002
+   Kurzname:		BT002
+   Beschrieb:		Temperatur 2
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT002:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		490
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT002:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		42
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT003
+   Kurzname:		BT003
+   Beschrieb:		Temperatur 3
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT003:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		500
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT003:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		43
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT004
+   Kurzname:		BT004
+   Beschrieb:		Temperatur 4
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT004:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		510
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT004:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		44
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT005
+   Kurzname:		BT005
+   Beschrieb:		Temperatur 5
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT005:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		520
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT005:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		45
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT006
+   Kurzname:		BT006
+   Beschrieb:		Temperatur 6
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT006:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		530
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT006:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		46
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT007
+   Kurzname:		BT007
+   Beschrieb:		Temperatur 7
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT007:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		540
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT007:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		47
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT008
+   Kurzname:		BT008
+   Beschrieb:		Temperatur 8
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT008:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		550
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT008:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		48
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT009
+   Kurzname:		BT009
+   Beschrieb:		Temperatur 9
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT009:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		560
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT009:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		49
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT010
+   Kurzname:		BT010
+   Beschrieb:		Temperatur 10
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT010:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		570
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT010:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		50
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT110
+   Kurzname:		BT110
+   Beschrieb:		Temperatur 1 Haupt-Vorlauf nach Speicher
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT110:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		580
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT110:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		51
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H40:BT210
+   Kurzname:		BT210
+   Beschrieb:		Temperatur 2 Haupt-Vorlauf nach Speicher
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H40:BT210:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		590
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT210:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		52
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H41
+  Kurzname:	H41
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT001
+   Kurzname:		BT001
+   Beschrieb:		Temperatur 1
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT001:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		600
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		53
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT002
+   Kurzname:		BT002
+   Beschrieb:		Temperatur 2
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT002:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		610
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT002:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		54
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT003
+   Kurzname:		BT003
+   Beschrieb:		Temperatur 3
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT003:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		620
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT003:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		55
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT004
+   Kurzname:		BT004
+   Beschrieb:		Temperatur 4
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT004:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		630
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT004:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		56
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT005
+   Kurzname:		BT005
+   Beschrieb:		Temperatur 5
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT005:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		640
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT005:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		57
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT006
+   Kurzname:		BT006
+   Beschrieb:		Temperatur 6
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT006:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		650
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT006:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		58
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT007
+   Kurzname:		BT007
+   Beschrieb:		Temperatur 7
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT007:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		660
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT007:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		59
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT008
+   Kurzname:		BT008
+   Beschrieb:		Temperatur 8
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT008:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		670
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT008:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		60
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT009
+   Kurzname:		BT009
+   Beschrieb:		Temperatur 9
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT009:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		680
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT009:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		61
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT010
+   Kurzname:		BT010
+   Beschrieb:		Temperatur 10
+   Hersteller:		Siemens
+   Typ:			QAM2120.200
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT010:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		690
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT010:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		62
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT110
+   Kurzname:		BT110
+   Beschrieb:		Temperatur 1 Haupt-Vorlauf nach Speicher
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT110:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		700
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT110:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		63
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H41:BT210
+   Kurzname:		BT210
+   Beschrieb:		Temperatur 2 Haupt-Vorlauf nach Speicher
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H41:BT210:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		710
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT210:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		64
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H11
+  Kurzname:	H11
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H11:BT100
+   Kurzname:		BT100
+   Beschrieb:		Temperatur Haupt-Vorlauf nach Kessel
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H11:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		720
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H11:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		65
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H11:BT130
+   Kurzname:		BT130
+   Beschrieb:		Temperatur gemeinsamer Vorlauf Kessel
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H11:BT130:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		730
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H11:BT130:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		66
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H12
+  Kurzname:	H12
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H12:BT100
+   Kurzname:		BT100
+   Beschrieb:		Temperatur Haupt-Vorlauf nach Kessel
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H12:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		740
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H12:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		67
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H12:BT130
+   Kurzname:		BT130
+   Beschrieb:		Temperatur gemeinsamer Vorlauf Kessel
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H12:BT130:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		750
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H12:BT130:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		68
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H46
+  Kurzname:	H46
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H46:GP110
+   Kurzname:		GP110
+   Beschrieb:		Druckhaltung NT-Netz
+   Hersteller:		IMI Hydronic
+   Typ:			Transfero TV 6.2EH Connect High Flow
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H46:GP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		760
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 3x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H46:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		102
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H46:GP110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		103
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H47
+  Kurzname:	H47
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H47:GP110
+   Kurzname:		GP110
+   Beschrieb:		Druckhaltung MT-Netz
+   Hersteller:		IMI Hydronic
+   Typ:			Transfero TV 6.2EH Connect High Flow
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H47:GP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		770
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 3x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H47:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		104
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H47:GP110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		105
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H61
+  Kurzname:	H61
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:HN110
+   Kurzname:		HN110
+   Beschrieb:		Schmutzf‰nger MT-Netz
+   Hersteller:		IMI Hydronic
+   Typ:			Zeparo ZIO 150F
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:HN110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		780
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 3x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:HN110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		106
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:HN110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		107
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:QM110
+   Kurzname:		QM110
+   Beschrieb:		Absperrklappe FL-Pumpe 1
+   Hersteller:		Siemens
+   Typ:			SAL61.00T40
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		790
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		108
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		109
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		157
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:QM210
+   Kurzname:		QM210
+   Beschrieb:		Absperrklappe FL-Pumpe 2
+   Hersteller:		Siemens
+   Typ:			SAL61.00T40
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:QM210:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		800
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		110
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		111
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		158
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:QM310
+   Kurzname:		QM310
+   Beschrieb:		Absperrklappe FL-Pumpe 3
+   Hersteller:		Siemens
+   Typ:			SAL61.00T40
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:QM310:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		810
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		113
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		159
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		112
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:GP110
+   Kurzname:		GP110
+   Beschrieb:		FL-Pumpe 1
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP110:Speisung
+    Kurzname:		Speisung
+    Seite:		820
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP110:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		830
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		840
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP110:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		850
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		84
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		114
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		115
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		116
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		117
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		160
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:GP210
+   Kurzname:		GP210
+   Beschrieb:		FL-Pumpe 2
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP210:Speisung
+    Kurzname:		Speisung
+    Seite:		860
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP210:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		870
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP210:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		880
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP210:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		890
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		85
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		118
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		119
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		120
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		121
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		161
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:GP310
+   Kurzname:		GP310
+   Beschrieb:		FL-Pumpe 3
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP310:Speisung
+    Kurzname:		Speisung
+    Seite:		900
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP310:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		910
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP310:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		920
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:GP310:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		930
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		86
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		122
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		123
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		124
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		125
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		162
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H61:BT100
+   Kurzname:		BT100
+   Beschrieb:		Temperatur Haupt-Vorlauf
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H61:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		940
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		69
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H62
+  Kurzname:	H62
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:HN110
+   Kurzname:		HN110
+   Beschrieb:		Schmutzf‰nger NT-Netz
+   Hersteller:		IMI Hydronic
+   Typ:			Zeparo ZIO 150F
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:HN110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		950
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 3x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:HN110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		126
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:HN110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		127
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:QM110
+   Kurzname:		QM110
+   Beschrieb:		Absperrklappe FL-Pumpe 1
+   Hersteller:		Siemens
+   Typ:			SQL36.E65
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		960
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		128
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		129
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		163
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:QM210
+   Kurzname:		QM210
+   Beschrieb:		Absperrklappe FL-Pumpe 2
+   Hersteller:		Siemens
+   Typ:			SQL36.E65
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:QM210:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		970
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		130
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		131
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		164
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:QM310
+   Kurzname:		QM310
+   Beschrieb:		Absperrklappe FL-Pumpe 3
+   Hersteller:		Siemens
+   Typ:			SQL36.E65
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:QM310:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		980
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		132
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		133
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		165
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:GP110
+   Kurzname:		GP110
+   Beschrieb:		FL-Pumpe 1
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP110:Speisung
+    Kurzname:		Speisung
+    Seite:		990
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP110:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		1000
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1010
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP110:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1020
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		87
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		134
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		135
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		136
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		137
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		166
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:GP210
+   Kurzname:		GP210
+   Beschrieb:		FL-Pumpe 2
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP210:Speisung
+    Kurzname:		Speisung
+    Seite:		1030
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP210:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		1040
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP210:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1050
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP210:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1060
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		88
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		138
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		139
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		140
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		141
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		167
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:GP310
+   Kurzname:		GP310
+   Beschrieb:		FL-Pumpe 3
+   Hersteller:		Grundfos
+   Typ:			TPE 65-550/2 S-A-F-A-BQQ-OX1
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP310:Speisung
+    Kurzname:		Speisung
+    Seite:		1070
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP310:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		1080
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP310:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1090
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:GP310:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1100
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		89
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		142
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		143
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		144
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		145
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		168
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H62:BT100
+   Kurzname:		BT100
+   Beschrieb:		Temperatur Haupt-Vorlauf
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H62:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1110
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		70
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:W‰rme:H13
+  Kurzname:	H13
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:QM110
+   Kurzname:		QM110
+   Beschrieb:		Absperrklappe Haupt-Vorlauf
+   Hersteller:		Siemens
+   Typ:			SQL36.E65
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1120
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		146
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		147
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		169
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:BT111
+   Kurzname:		BT111
+   Beschrieb:		Temperatur prim‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:BT111:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1130
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		71
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:BT112
+   Kurzname:		BT112
+   Beschrieb:		Temperatur prim‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:BT112:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1140
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		72
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:BT121
+   Kurzname:		BT121
+   Beschrieb:		Temperatur sekund‰r Eintritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:BT121:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1150
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		73
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:BT122
+   Kurzname:		BT122
+   Beschrieb:		Temperatur sekund‰r Austritt
+   Hersteller:		Siemens
+   Typ:			QAE26.91
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:BT122:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1160
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		74
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:QN110
+   Kurzname:		QN110
+   Beschrieb:		Mischventil prim‰r
+   Hersteller:		Danfoss GmbH
+   Typ:			AME 55 QM
+   Funktion:		app RVTx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:QN110:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		1170
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QN110:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		90
+    Wert:		0
+    Einheit:		%
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:FQ100
+   Kurzname:		FQ100
+   Beschrieb:		Wassermelder
+   Hersteller:		Sensortec AG
+   Typ:			SWM3.2 
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:FQ100:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1180
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:FQ100:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		148
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		ZugGate:W‰rme:H13:QM121
+   Kurzname:		QM121
+   Beschrieb:		Absperrklappe Haupt-Vorlauf
+   Hersteller:		Siemens
+   Typ:			SQL36.E65
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:W‰rme:H13:QM121:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		1190
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		149
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		150
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		170
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+
+  
+  Steuerung:
+  Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013
+  Kurzname:	QZMEH.025.001.117.ZT013
+  Beschrieb:	PCD1
+  Hersteller:	Saia
+  Typ:		PCD1.M2160
+  Photo:	
+
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_1
+   Kurzname:		PCD1.G2100-A10_1
+   Slotnummer:		1
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		33
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		34
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		35
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		36
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		37
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		38
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		39
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H00:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		32
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_2
+   Kurzname:		PCD1.G2100-A10_2
+   Slotnummer:		2
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		40
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		41
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT002:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		42
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT003:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		43
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT004:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		44
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT005:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		45
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT006:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		46
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT007:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		47
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_3
+   Kurzname:		PCD1.G2100-A10_3
+   Slotnummer:		3
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT008:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		48
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT009:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		49
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT010:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		50
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT110:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		51
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H40:BT210:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		52
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		53
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT003:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		55
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT002:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		54
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_4
+   Kurzname:		PCD1.G2100-A10_4
+   Slotnummer:		4
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT004:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		56
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT005:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		57
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT006:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		58
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT007:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		59
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT008:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		60
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT009:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		61
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT010:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		62
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT110:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		63
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_5
+   Kurzname:		PCD1.G2100-A10_5
+   Slotnummer:		5
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H41:BT210:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		64
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H11:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		65
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H11:BT130:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		66
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H12:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		67
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		69
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H12:BT130:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		68
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		70
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT111:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		71
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.G2100-A10_6
+   Kurzname:		PCD1.G2100-A10_6
+   Slotnummer:		6
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT112:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		72
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT121:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		73
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:BT122:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		74
+    Wert:		0
+    Einheit:		∞C
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res75
+    Kurzname:		Res75
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		75
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res76
+    Kurzname:		Res76
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		76
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res77
+    Kurzname:		Res77
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		77
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res78
+    Kurzname:		Res78
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		78
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res79
+    Kurzname:		Res79
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		79
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.W5200-A20_7
+   Kurzname:		PCD1.W5200-A20_7
+   Slotnummer:		7
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:QN120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		80
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:QN120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		81
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:QM120:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		82
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		83
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		84
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		85
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		86
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		87
+    Wert:		0
+    Einheit:		%
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.W5200-A20_8
+   Kurzname:		PCD1.W5200-A20_8
+   Slotnummer:		8
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		88
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		89
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QN110:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Strom-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		90
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res91
+    Kurzname:		Res91
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		91
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res92
+    Kurzname:		Res92
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		92
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res93
+    Kurzname:		Res93
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		93
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res94
+    Kurzname:		Res94
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		94
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res95
+    Kurzname:		Res95
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		95
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.E1000-A10_9
+   Kurzname:		PCD1.E1000-A10_9
+   Slotnummer:		9
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H31:FQ100:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		96
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:FQ120:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		97
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		98
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		99
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		100
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		101
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H46:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		102
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H46:GP110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		103
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H47:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		104
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H47:GP110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		105
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:HN110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		106
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:HN110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		107
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.E1000-A10_10
+   Kurzname:		PCD1.E1000-A10_10
+   Slotnummer:		10
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		108
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		109
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		110
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		111
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		113
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		114
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		115
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		116
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		117
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		118
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		119
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		112
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.E1000-A10_11
+   Kurzname:		PCD1.E1000-A10_11
+   Slotnummer:		11
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		120
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		121
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		122
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		123
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		124
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		125
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:HN110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		126
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:HN110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		127
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		128
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		129
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		130
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		131
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.E1000-A10_12
+   Kurzname:		PCD1.E1000-A10_12
+   Slotnummer:		12
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		132
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		133
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		134
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		135
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		136
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		137
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		138
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		139
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		140
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		141
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		142
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		143
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.E1000-A10_13
+   Kurzname:		PCD1.E1000-A10_13
+   Slotnummer:		13
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		144
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		145
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		146
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		147
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:FQ100:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		148
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		149
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		150
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res151
+    Kurzname:		Res151
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		151
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res152
+    Kurzname:		Res152
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		152
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res153
+    Kurzname:		Res153
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		153
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res154
+    Kurzname:		Res154
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		154
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res155
+    Kurzname:		Res155
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		155
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.A1000-A20_14
+   Kurzname:		PCD1.A1000-A20_14
+   Slotnummer:		14
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H33:GP120:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		156
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		157
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		158
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		159
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		160
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		161
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H61:GP310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		162
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		163
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		164
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		165
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:W‰rme:QZMEH.025.001.117.ZT013:PCD1.A1000-A20_15
+   Kurzname:		PCD1.A1000-A20_15
+   Slotnummer:		15
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		166
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		167
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H62:GP310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		168
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		169
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:H13:QM121:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		170
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res171
+    Kurzname:		Res171
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		171
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res172
+    Kurzname:		Res172
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		172
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res173
+    Kurzname:		Res173
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		173
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res174
+    Kurzname:		Res174
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		174
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:W‰rme:Reserve_Site:Reserve_Device:Res175
+    Kurzname:		Res175
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		175
+    Wert:		0
+    Einheit:		
+    
+   
+  
+ 
+

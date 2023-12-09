@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static %}
+{% static "images" as baseUrl %}
+
+{% block content1 %}
+    <!-- Banner -->
+    <div id="banner">
+        {% if user.is_staff %}
+            <h2><strong>downloader:</strong> files were generated according to your uploaded templates! </h2>
+
+            <!-- downloader-Button -->
+            <!-- download-Link -->
+            <a href="/media/NJLed.zip" download>Download generated files as .zip</a>
+
+        {% else %}
+
+            <h2><strong>Sorry:</strong> you don't got enough permissions!</h2>
+
+        {% endif %}
+
+    </div>
+
+{% endblock content1 %}
+
+
+{% block content2 %}
+
+{% endblock content2 %}

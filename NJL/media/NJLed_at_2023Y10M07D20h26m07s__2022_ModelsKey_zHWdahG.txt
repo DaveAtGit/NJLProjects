@@ -1,0 +1,2023 @@
+Projekt:
+Name:	GE Birr
+Nummer:	10668
+Creator:	ravey
+Photo:		
+Users:  
+
+ 
+ Feld:
+ Name:		GE Birr:TC02_a
+ Kurzname:	TC02_a
+ Creator:	ravey
+ Photo:		
+
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:Reserve_Site
+  Kurzname:	Reserve_Site
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:Reserve_Site:Reserve_Device
+   Kurzname:		Reserve_Device
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Funktion:		
+   Photo:		
+
+    
+
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ000
+  Kurzname:	TZ000
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ000:S002
+   Kurzname:		S002
+   Beschrieb:		Ueberfuellschutz HiHi ueberbrueckt
+   Hersteller:		xy
+   Typ:			yz
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ000:S002:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		601
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ000:S003
+   Kurzname:		S003
+   Beschrieb:		Alarmunterdrueckung 30min LoLo
+   Hersteller:		xy
+   Typ:			yz
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ000:S003:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		602
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ000:S005
+   Kurzname:		S005
+   Beschrieb:		Einlagerung KWG_TKW_Drehschalter
+   Hersteller:		xy
+   Typ:			yz
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ000:S005:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		608
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ000:S004
+   Kurzname:		S004
+   Beschrieb:		Totmannschaltung Einlagern in 2 Tanks
+   Hersteller:		xy
+   Typ:			yz
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ000:S004:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		603
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ000:S001
+   Kurzname:		S001
+   Beschrieb:		NotAus
+   Hersteller:		xy
+   Typ:			yz
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ000:S001:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		600
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ001
+  Kurzname:	TZ001
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ001:P001
+   Kurzname:		P001
+   Beschrieb:		Pumpe 1
+   Hersteller:		United Rentals
+   Typ:			E4MH-CI
+   Funktion:		app PMPx C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ001:P001:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		688
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ001:P002
+   Kurzname:		P002
+   Beschrieb:		Pumpe 2
+   Hersteller:		United Rentals
+   Typ:			E4MH-CI
+   Funktion:		app PMPx C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ001:P002:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		690
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ001:P003
+   Kurzname:		P003
+   Beschrieb:		Pumpe 3
+   Hersteller:		United Rentals
+   Typ:			E4MH-CI
+   Funktion:		app PMPx C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ001:P003:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		692
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ001:P004
+   Kurzname:		P004
+   Beschrieb:		Pumpe 4
+   Hersteller:		United Rentals
+   Typ:			E4MH-CI
+   Funktion:		app PMPx C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ001:P004:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		704
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ001:PT005
+   Kurzname:		PT005
+   Beschrieb:		Druckmessung
+   Hersteller:		Endress+Hauser
+   Typ:			Cerabar
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ001:PT005:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		256
+    Wert:		0
+    Einheit:		∞C
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ002
+  Kurzname:	TZ002
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ002:V3002
+   Kurzname:		V3002
+   Beschrieb:		Klappe Einlagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:V3002:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		706
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:V3002:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		497
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:V3002:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		498
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:V3002:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		500
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ002:V3002_S
+   Kurzname:		V3002_S
+   Beschrieb:		Klappe Einlagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:V3002_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		499
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ002:LS162
+   Kurzname:		LS162
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LS162:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		496
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LS162:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		507
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ002:LT162
+   Kurzname:		LT162
+   Beschrieb:		Fuellstand
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LT162:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		257
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ002:LT162_S
+   Kurzname:		LT162_S
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SM03 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LT162_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		504
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LT162_S:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		505
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ002:LT162_S:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		506
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ003
+  Kurzname:	TZ003
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ003:V3001
+   Kurzname:		V3001
+   Beschrieb:		Klappe Einlagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:V3001:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		707
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:V3001:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		514
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:V3001:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		515
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:V3001:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		517
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ003:V3001_S
+   Kurzname:		V3001_S
+   Beschrieb:		Klappe Einlagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:V3001_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		516
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ003:LS163
+   Kurzname:		LS163
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LS163:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		513
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LS163:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		512
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ003:LT163
+   Kurzname:		LT163
+   Beschrieb:		Fuellstand
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LT163:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		258
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ003:LT163_S
+   Kurzname:		LT163_S
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SM03 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LT163_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		501
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LT163_S:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		502
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ003:LT163_S:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		503
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ010
+  Kurzname:	TZ010
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V4001_N4
+   Kurzname:		V4001_N4
+   Beschrieb:		Klappe Einlagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V4001_N4:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		708
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V4001_N4:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		529
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V4001_N4:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		530
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V4001_N4:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		532
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V4001_N4_S
+   Kurzname:		V4001_N4_S
+   Beschrieb:		Klappe Einlagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V4001_N4_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		531
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V5001_N6
+   Kurzname:		V5001_N6
+   Beschrieb:		Klappe Auslagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5001_N6:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		709
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5001_N6:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		533
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5001_N6:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		534
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5001_N6:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		536
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V5001_N6_S
+   Kurzname:		V5001_N6_S
+   Beschrieb:		Klappe Auslagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5001_N6_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		535
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V5037_N5B
+   Kurzname:		V5037_N5B
+   Beschrieb:		Klappe Umlagerung
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5037_N5B:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		720
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5037_N5B:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		537
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5037_N5B:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		538
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5037_N5B:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		544
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:V5037_N5B_S
+   Kurzname:		V5037_N5B_S
+   Beschrieb:		Klappe Umlagerung SM
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:V5037_N5B_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		539
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:LS001
+   Kurzname:		LS001
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS001:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		519
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS001:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		520
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:LS011
+   Kurzname:		LS011
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS011:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		522
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS011:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		521
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:LS111
+   Kurzname:		LS111
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS111:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		523
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LS111:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		528
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:LT001
+   Kurzname:		LT001
+   Beschrieb:		Fuellstand
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LT001:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		259
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ010:LT001_S
+   Kurzname:		LT001_S
+   Beschrieb:		Fuellstand SM
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ010:LT001_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		518
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ011
+  Kurzname:	TZ011
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V4002_N4
+   Kurzname:		V4002_N4
+   Beschrieb:		Klappe Einlagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V4002_N4:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		721
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V4002_N4:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		552
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V4002_N4:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		553
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V4002_N4:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		555
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V4002_N4_S
+   Kurzname:		V4002_N4_S
+   Beschrieb:		Klappe Einlagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V4002_N4_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		554
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V5002_N6
+   Kurzname:		V5002_N6
+   Beschrieb:		Klappe Auslagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5002_N6:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		722
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5002_N6:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		560
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5002_N6:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		561
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5002_N6:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		563
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V5002_N6_S
+   Kurzname:		V5002_N6_S
+   Beschrieb:		Klappe Auslagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5002_N6_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		562
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V5038_N5B
+   Kurzname:		V5038_N5B
+   Beschrieb:		Klappe Umlagerung
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5038_N5B:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		723
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5038_N5B:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		564
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5038_N5B:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		565
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5038_N5B:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		567
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:V5038_N5B_S
+   Kurzname:		V5038_N5B_S
+   Beschrieb:		Klappe Umlagerung SM
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:V5038_N5B_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		566
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:LS002
+   Kurzname:		LS002
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS002:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		547
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS002:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		546
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:LS022
+   Kurzname:		LS022
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS022:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		549
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS022:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		548
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:LS222
+   Kurzname:		LS222
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS222:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		551
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LS222:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		550
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:LT002
+   Kurzname:		LT002
+   Beschrieb:		Fuellstand
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LT002:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		260
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ011:LT002_S
+   Kurzname:		LT002_S
+   Beschrieb:		Fuellstand SM
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ011:LT002_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		545
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ012
+  Kurzname:	TZ012
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V4003_N4
+   Kurzname:		V4003_N4
+   Beschrieb:		Klappe Einlagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V4003_N4:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		724
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V4003_N4:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		579
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V4003_N4:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		580
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V4003_N4:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		582
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V4003_N4_S
+   Kurzname:		V4003_N4_S
+   Beschrieb:		Klappe Einlagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V4003_N4_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		581
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V5003_N6
+   Kurzname:		V5003_N6
+   Beschrieb:		Klappe Auslagerung
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5003_N6:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		725
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5003_N6:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		583
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5003_N6:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		584
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5003_N6:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		586
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V5003_N6_S
+   Kurzname:		V5003_N6_S
+   Beschrieb:		Klappe Auslagerung SM
+   Hersteller:		HOERBBIGER
+   Typ:			TriVAX
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5003_N6_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		585
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V5039_N5B
+   Kurzname:		V5039_N5B
+   Beschrieb:		Klappe Umlagerung
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5039_N5B:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		736
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5039_N5B:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		587
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5039_N5B:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		592
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5039_N5B:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		594
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:V5039_N5B_S
+   Kurzname:		V5039_N5B_S
+   Beschrieb:		Klappe Umlagerung SM
+   Hersteller:		Deufra Bernard
+   Typ:			AS50
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:V5039_N5B_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		593
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:LS003
+   Kurzname:		LS003
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS003:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		570
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS003:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		569
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:LS033
+   Kurzname:		LS033
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS033:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		576
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS033:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		571
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:LS333
+   Kurzname:		LS333
+   Beschrieb:		Grenzschalter
+   Hersteller:		Endress+Hauser
+   Typ:			Liquifant
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS333:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		578
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LS333:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		577
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:LT003
+   Kurzname:		LT003
+   Beschrieb:		Fuellstand
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LT003:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		261
+    Wert:		0
+    Einheit:		∞C
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ012:LT003_S
+   Kurzname:		LT003_S
+   Beschrieb:		Fuellstand SM
+   Hersteller:		Endress+Hauser
+   Typ:			FTL51
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ012:LT003_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		568
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		GE Birr:TC02_a:TZ020
+  Kurzname:	TZ020
+  Beschrieb:	
+
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ020:E002
+   Kurzname:		E002
+   Beschrieb:		Tank 1 Bezugsbereit
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E002:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		737
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ020:E001
+   Kurzname:		E001
+   Beschrieb:		Tankwahl
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM03 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E001:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		595
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E001:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		596
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E001:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		597
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ020:E001_1
+   Kurzname:		E001_1
+   Beschrieb:		Tankwahl
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E001_1:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Stˆrmeldung)
+    Kontrollfunktion:	x
+    Adresse:		598
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Feldger√§t:
+   Name:		GE Birr:TC02_a:TZ020:E001_S
+   Kurzname:		E001_S
+   Beschrieb:		Tankwahl
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		GE Birr:TC02_a:TZ020:E001_S:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		599
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+
+  
+  Steuerung:
+  Name:		GE Birr:TC02_a:QZMEH.025.001.103.ZT012
+  Kurzname:	QZMEH.025.001.103.ZT012
+  Beschrieb:	PCD1
+  Hersteller:	Saia
+  Typ:		PCD1.M2160
+  Photo:	
+
+   
+  
+ 
+

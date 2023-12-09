@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% load static %}
+{% static "images" as baseUrl %}
+
+{% block content1 %}
+    <!-- Banner -->
+    <div id="banner">
+        {% if user.is_staff %}
+            <h2><strong>uploader:</strong> before uploading, check format and keywords!</h2>
+
+            <!-- upload MasterList (MSRProject.xlsx) -->
+            <p>create project/field: masterfile.xls</p>
+
+            <form method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                <input type="file" name="mstList">
+                <button class="button large icon solid fa-check-circle" type="submit">upload it!</button>
+            </form>
+            <hr>
+            <h2></h2>
+
+            <!-- upload Template -->
+            <p>create template: .doc / .docx or .txt</p>
+            <form method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                <input type="file" name="newTemplate">
+                <button class="button large icon solid fa-check-circle" type="submit">upload it!</button>
+            </form>
+            <hr>
+            <h2></h2>
+
+        {% else %}
+
+            <h2><strong>Sorry:</strong> you don't got enough permissions!</h2>
+
+        {% endif %}
+
+    </div>
+
+{% endblock content1 %}
+
+
+{% block content2 %}
+
+    {% if matrix %}
+        <h2>matrix successfully created -> objects were generated!</h2> <!--<a href="{{ matrix }}">{{ matrix }}</a></p>-->
+    {% else %}
+        <p>no matrix available</p>
+    {% endif %}
+
+{% endblock content2 %}

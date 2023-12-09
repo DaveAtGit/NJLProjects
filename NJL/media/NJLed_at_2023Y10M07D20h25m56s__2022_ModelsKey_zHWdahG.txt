@@ -1,0 +1,3871 @@
+Projekt:
+Name:	ZugGate
+Nummer:	10373
+Creator:	ravey
+Photo:		
+Users:  
+
+ 
+ Feld:
+ Name:		ZugGate:ZT014
+ Kurzname:	ZT014
+ Creator:	ravey
+ Photo:		
+
+  
+  Anlage:
+  Name:		ZugGate:ZT014:Reserve_Site
+  Kurzname:	Reserve_Site
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device
+   Kurzname:		Reserve_Device
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Funktion:		
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res37
+    Kurzname:		Res37
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		37
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res38
+    Kurzname:		Res38
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		38
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res39
+    Kurzname:		Res39
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		39
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res44
+    Kurzname:		Res44
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		44
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res45
+    Kurzname:		Res45
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		45
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res46
+    Kurzname:		Res46
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		46
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res47
+    Kurzname:		Res47
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		47
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res114
+    Kurzname:		Res114
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		114
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res115
+    Kurzname:		Res115
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		115
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res116
+    Kurzname:		Res116
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		116
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res117
+    Kurzname:		Res117
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		117
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res118
+    Kurzname:		Res118
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		118
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res119
+    Kurzname:		Res119
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		119
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res147
+    Kurzname:		Res147
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		147
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res148
+    Kurzname:		Res148
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		148
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res149
+    Kurzname:		Res149
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		149
+    Wert:		0
+    Einheit:		
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:ZT014:L11
+  Kurzname:	L11
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:GQ411
+   Kurzname:		GQ411
+   Beschrieb:		Ventilator AUL
+   Hersteller:		Helios
+   Typ:			RRK 250 EX
+   Funktion:		app MOT1 C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ411:Speisung
+    Kurzname:		Speisung
+    Seite:		300
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ411:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		310
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ411:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		320
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		48
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		49
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		50
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		120
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:GQ410
+   Kurzname:		GQ410
+   Beschrieb:		Ventilator FOL
+   Hersteller:		Helios
+   Typ:			RRK 200 EX
+   Funktion:		app MOT1 C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ410:Speisung
+    Kurzname:		Speisung
+    Seite:		330
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ410:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		340
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:GQ410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		350
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		51
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		52
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		53
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		121
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM110
+   Kurzname:		QM110
+   Beschrieb:		Brandschutzklappe AUL
+   Hersteller:		Schischek
+   Typ:			ExMax-15-BF
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		360
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		55
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		122
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		54
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM111
+   Kurzname:		QM111
+   Beschrieb:		Brandschutzklappe AUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM111:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		370
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		56
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		57
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		123
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM112
+   Kurzname:		QM112
+   Beschrieb:		Brandschutzklappe AUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM112:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		380
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		58
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		59
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		124
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM410
+   Kurzname:		QM410
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Schischek
+   Typ:			ExMax-15-BF
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		390
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		60
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		61
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		125
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM411
+   Kurzname:		QM411
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM411:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		400
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		62
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		63
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		126
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L11:QM412
+   Kurzname:		QM412
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L11:QM412:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		410
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		64
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		65
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		127
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:ZT014:L12
+  Kurzname:	L12
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L12:BT100
+   Kurzname:		BT100
+   Beschrieb:		Raumtemperatur
+   Hersteller:		Schischek
+   Typ:			TFR2G3D
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		420
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		32
+    Wert:		0
+    Einheit:		°C
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L12:QM110
+   Kurzname:		QM110
+   Beschrieb:		Klappe AUL
+   Hersteller:		Schischek
+   Typ:			ExMax-10-BF
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		430
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		66
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		67
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		128
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L12:QM410
+   Kurzname:		QM410
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Schischek
+   Typ:			ExMax-15-BF
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:QM410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		440
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		68
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		69
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		129
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L12:QM411
+   Kurzname:		QM411
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:QM411:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		450
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		71
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		130
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		70
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L12:GQ410
+   Kurzname:		GQ410
+   Beschrieb:		Ventilator FOL
+   Hersteller:		Helios
+   Typ:			6792 VARD
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:GQ410:Speisung
+    Kurzname:		Speisung
+    Seite:		460
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:GQ410:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		470
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:GQ410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		480
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L12:GQ410:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		490
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp7
+    Kurzname:		dp7
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		33
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		40
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		72
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		73
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		74
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		75
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp8
+    Kurzname:		dp8
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		76
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		131
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:ZT014:L13
+  Kurzname:	L13
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:BT100
+   Kurzname:		BT100
+   Beschrieb:		Raumtemperatur1
+   Hersteller:		Siemens
+   Typ:			QAA2012
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:BT100:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		500
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		34
+    Wert:		0
+    Einheit:		°C
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:BT101
+   Kurzname:		BT101
+   Beschrieb:		Raumtemperatur2
+   Hersteller:		Siemens
+   Typ:			QAA2012
+   Funktion:		app SENT A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:BT101:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		510
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BT101:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		35
+    Wert:		0
+    Einheit:		°C
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:BP110
+   Kurzname:		BP110
+   Beschrieb:		Filterwächter
+   Hersteller:		Siemens
+   Typ:			QBM81-3
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:BP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		520
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		77
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:GQ111
+   Kurzname:		GQ111
+   Beschrieb:		Ventilator ZUL
+   Hersteller:		Helios
+   Typ:			KRW EC
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ111:Speisung
+    Kurzname:		Speisung
+    Seite:		530
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ111:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		540
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ111:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		550
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ111:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		560
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		78
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		79
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		80
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		132
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		41
+    Wert:		0
+    Einheit:		%
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM210
+   Kurzname:		QM210
+   Beschrieb:		Brandschutzklappe ZUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM210:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		570
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		81
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		82
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		133
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM310
+   Kurzname:		QM310
+   Beschrieb:		Brandschutzklappe ABL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM310:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		580
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		84
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		134
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		83
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM211
+   Kurzname:		QM211
+   Beschrieb:		Brandschutzklappe ZUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM211:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		590
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		85
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		86
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		135
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM220
+   Kurzname:		QM220
+   Beschrieb:		Brandschutzklappe ZUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM220:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		600
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		87
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		88
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		136
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM320
+   Kurzname:		QM320
+   Beschrieb:		Brandschutzklappe ABL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM320:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		610
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		89
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		90
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		137
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM330
+   Kurzname:		QM330
+   Beschrieb:		Brandschutzklappe ABL
+   Hersteller:		Schischek
+   Typ:			ExMax-15-BF
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM330:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		620
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		91
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		92
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		138
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM212
+   Kurzname:		QM212
+   Beschrieb:		Brandschutzklappe ZUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM212:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		630
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		93
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		94
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		139
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM213
+   Kurzname:		QM213
+   Beschrieb:		Brandschutzklappe ZUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM213:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		640
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		95
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		96
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		140
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM110
+   Kurzname:		QM110
+   Beschrieb:		Klappe AUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		650
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		97
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		98
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		141
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:QM410
+   Kurzname:		QM410
+   Beschrieb:		Klappe FOL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:QM410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		660
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		100
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		142
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		99
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L13:GQ410
+   Kurzname:		GQ410
+   Beschrieb:		Ventilator FOL
+   Hersteller:		Helios
+   Typ:			KRW EC
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ410:Speisung
+    Kurzname:		Speisung
+    Seite:		670
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ410:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		680
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ410:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		690
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L13:GQ410:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		700
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		42
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		101
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		102
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		103
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		143
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:ZT014:L21
+  Kurzname:	L21
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L21:QM110
+   Kurzname:		QM110
+   Beschrieb:		Brandschutzklappe AUL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:QM110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		710
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		104
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		105
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		144
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L21:BP110
+   Kurzname:		BP110
+   Beschrieb:		Filterwächter
+   Hersteller:		Siemens
+   Typ:			QBM81-3
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:BP110:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		720
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:BP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		106
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L21:QM111
+   Kurzname:		QM111
+   Beschrieb:		Brandschutzklappe FOL
+   Hersteller:		Belimo
+   Typ:			BFN24-T-ST
+   Funktion:		app KLPx A1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:QM111:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		730
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 4x0.8
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		145
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		107
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		108
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT014:L21:GQ111
+   Kurzname:		GQ111
+   Beschrieb:		Ventilator AUL
+   Hersteller:		Helios
+   Typ:			VARD 355
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:GQ111:Speisung
+    Kurzname:		Speisung
+    Seite:		740
+    Seitenpfad:		2
+    Beschrieb:		TT-Kabel 3x1.5 LNPE
+    Querschnitt:	1.50
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:GQ111:Revisionsschalter
+    Kurzname:		Revisionsschalter
+    Seite:		750
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 2x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:GQ111:Digital-Signale
+    Kurzname:		Digital-Signale
+    Seite:		760
+    Seitenpfad:		2
+    Beschrieb:		Steuer-Kabel 5x0.8
+    Querschnitt:	0.80
+    
+    Kabel:
+    Name:		ZugGate:ZT014:L21:GQ111:Analog-Signale
+    Kurzname:		Analog-Signale
+    Seite:		770
+    Seitenpfad:		5
+    Beschrieb:		Steuer-Kabel 4x0.8, abgeschirmt
+    Querschnitt:	0.80
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp7
+    Kurzname:		dp7
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		36
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		43
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		109
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		110
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		111
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		112
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp8
+    Kurzname:		dp8
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		113
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		146
+    Wert:		0
+    Einheit:		nan
+    
+   
+  
+
+  
+  Steuerung:
+  Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014
+  Kurzname:	QZMEH.025.001.103.ZT014
+  Beschrieb:	PCD1
+  Hersteller:	Saia
+  Typ:		PCD1.M2160
+  Photo:	
+
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.G2100-A10_1
+   Kurzname:		PCD1.G2100-A10_1
+   Slotnummer:		1
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp7
+    Kurzname:		dp7
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		33
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		34
+    Wert:		0
+    Einheit:		°C
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BT101:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		35
+    Wert:		0
+    Einheit:		°C
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:BT100:dp1
+    Kurzname:		dp1
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		32
+    Wert:		0
+    Einheit:		°C
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp7
+    Kurzname:		dp7
+    Typ:		AE
+    Hardware?:		True
+    Beschrieb:		analoger ohmischer Eingang 1-Draht
+    Kontrollfunktion:	x
+    Adresse:		36
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res37
+    Kurzname:		Res37
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		37
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res38
+    Kurzname:		Res38
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		38
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res39
+    Kurzname:		Res39
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		39
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.W5200-A20_2
+   Kurzname:		PCD1.W5200-A20_2
+   Slotnummer:		2
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		40
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		42
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		41
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp2
+    Kurzname:		dp2
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		43
+    Wert:		0
+    Einheit:		%
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res44
+    Kurzname:		Res44
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		44
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res45
+    Kurzname:		Res45
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		45
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res46
+    Kurzname:		Res46
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		46
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res47
+    Kurzname:		Res47
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		47
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_3
+   Kurzname:		PCD1.E1000-A10_3
+   Slotnummer:		3
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		48
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		49
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		50
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		51
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		52
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		53
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		55
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		56
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		57
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		58
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		59
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		54
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_4
+   Kurzname:		PCD1.E1000-A10_4
+   Slotnummer:		4
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		60
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		61
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		62
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		63
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		64
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		65
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		66
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		67
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		68
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		69
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		71
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		70
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_5
+   Kurzname:		PCD1.E1000-A10_5
+   Slotnummer:		5
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		72
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		73
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		74
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		75
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp8
+    Kurzname:		dp8
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		76
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:BP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		77
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		78
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		79
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		80
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		81
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		82
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		83
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_6
+   Kurzname:		PCD1.E1000-A10_6
+   Slotnummer:		6
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		84
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		85
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		86
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		87
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		88
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		89
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		90
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		91
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		92
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		93
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		94
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		95
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_7
+   Kurzname:		PCD1.E1000-A10_7
+   Slotnummer:		7
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		96
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		97
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		98
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		100
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		101
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		102
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		103
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		104
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		105
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:BP110:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		106
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		99
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		107
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.E1000-A10_8
+   Kurzname:		PCD1.E1000-A10_8
+   Slotnummer:		8
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		108
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp3
+    Kurzname:		dp3
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		109
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp4
+    Kurzname:		dp4
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		110
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp5
+    Kurzname:		dp5
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		111
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp6
+    Kurzname:		dp6
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Meldung)
+    Kontrollfunktion:	x
+    Adresse:		112
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp8
+    Kurzname:		dp8
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		113
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res114
+    Kurzname:		Res114
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		114
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res115
+    Kurzname:		Res115
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		115
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res116
+    Kurzname:		Res116
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		116
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res117
+    Kurzname:		Res117
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		117
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res118
+    Kurzname:		Res118
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		118
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res119
+    Kurzname:		Res119
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		119
+    Wert:		0
+    Einheit:		
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.A1000-A20_9
+   Kurzname:		PCD1.A1000-A20_9
+   Slotnummer:		9
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		120
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		121
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		122
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		123
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM112:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		124
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		125
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		126
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L11:QM412:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		127
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		128
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		129
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.A1000-A20_10
+   Kurzname:		PCD1.A1000-A20_10
+   Slotnummer:		10
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:QM411:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		130
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L12:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		131
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		132
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM210:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		133
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM310:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		134
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM211:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		135
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM220:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		136
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM320:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		137
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM330:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		138
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM212:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		139
+    Wert:		0
+    Einheit:		nan
+    
+   
+   Modul:
+   Name:		ZugGate:ZT014:QZMEH.025.001.103.ZT014:PCD1.A1000-A20_11
+   Kurzname:		PCD1.A1000-A20_11
+   Slotnummer:		11
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Photo:		
+
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM213:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		140
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		141
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:QM410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		142
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM110:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		144
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:QM111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		145
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L13:GQ410:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		143
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:L21:GQ111:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		146
+    Wert:		0
+    Einheit:		nan
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res147
+    Kurzname:		Res147
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		147
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res148
+    Kurzname:		Res148
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		148
+    Wert:		0
+    Einheit:		
+    
+    IOs
+    Name:		ZugGate:ZT014:Reserve_Site:Reserve_Device:Res149
+    Kurzname:		Res149
+    Typ:		None
+    Hardware?:		True
+    Beschrieb:		
+    Kontrollfunktion:	
+    Adresse:		149
+    Wert:		0
+    Einheit:		
+    
+   
+  
+ 
+ Feld:
+ Name:		ZugGate:ZT012
+ Kurzname:	ZT012
+ Creator:	ravey
+ Photo:		
+
+  
+  Anlage:
+  Name:		ZugGate:ZT012:Reserve_Site
+  Kurzname:	Reserve_Site
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:Reserve_Site:Reserve_Device
+   Kurzname:		Reserve_Device
+   Beschrieb:		
+   Hersteller:		
+   Typ:			
+   Funktion:		
+   Photo:		
+
+    
+
+    
+   
+  
+  Anlage:
+  Name:		ZugGate:ZT012:TH01
+  Kurzname:	TH01
+  Beschrieb:	
+
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD008
+   Kurzname:		KD008
+   Beschrieb:		Silo Endschalter Deckel 1
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD008:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		496
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD009
+   Kurzname:		KD009
+   Beschrieb:		Silo Endschalter Deckel 2
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD009:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		497
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD010
+   Kurzname:		KD010
+   Beschrieb:		Silo Endschalter Deckel 3
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD010:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		498
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD011
+   Kurzname:		KD011
+   Beschrieb:		Silo Endschalter Deckel 4
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD011:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		499
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD012
+   Kurzname:		KD012
+   Beschrieb:		Silo Endschalter Wartungsklappe
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app RM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD012:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Störmeldung)
+    Kontrollfunktion:	x
+    Adresse:		500
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD006
+   Kurzname:		KD006
+   Beschrieb:		Holzkessel Allgemein
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD006:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		501
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD007
+   Kurzname:		KD007
+   Beschrieb:		Holzkessel Allgemein
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app SM02 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD007:dp2
+    Kurzname:		dp2
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		502
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:YW001
+   Kurzname:		YW001
+   Beschrieb:		Wassermelder
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app SM01 A1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:YW001:dp1
+    Kurzname:		dp1
+    Typ:		DE
+    Hardware?:		True
+    Beschrieb:		digitaler Eingang (Betriebsmeldung)
+    Kontrollfunktion:	x
+    Adresse:		504
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:KD005
+   Kurzname:		KD005
+   Beschrieb:		Holzkessel 1
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:KD005:dp1
+    Kurzname:		dp1
+    Typ:		DA
+    Hardware?:		True
+    Beschrieb:		digitaler Ausgang
+    Kontrollfunktion:	x
+    Adresse:		659
+    Wert:		0
+    Einheit:		nan
+    
+   
+   FeldgerÃ¤t:
+   Name:		ZugGate:ZT012:TH01:MA001
+   Kurzname:		MA001
+   Beschrieb:		Holzkessel 1
+   Hersteller:		nan
+   Typ:			nan
+   Funktion:		app MOTS C1
+   Photo:		
+
+    
+
+    
+    IOs
+    Name:		ZugGate:ZT012:TH01:MA001:dp1
+    Kurzname:		dp1
+    Typ:		AA
+    Hardware?:		True
+    Beschrieb:		analoger Spannungs-Ausgang
+    Kontrollfunktion:	x
+    Adresse:		104
+    Wert:		0
+    Einheit:		%
+    
+   
+  
+
+  
+ 
+

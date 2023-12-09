@@ -1,0 +1,223 @@
+{% extends 'base.html' %}
+{% load static %}
+{% static "images" as baseUrl %}
+
+{% block content1 %}
+    <!-- Main Wrapper -->
+    <div id="main-wrapper">
+        <div class="wrapper style1">
+            <div class="inner">
+
+                <!-- Feature 1 -->
+                <section class="container box feature1">
+                    <div class="row">
+                        <div class="col-12">
+                            <header class="first major">
+                                {% if the_project %}
+                                    {#                                    <main>#}
+                                    {#	                                <h2 title={{ the_project.name }}{{ the_project.project_ID }}>#}
+                                    {#                                        project#}
+                                    <h2>{{ the_project.name }}</h2>
+                                    <p><strong>{{ the_project.project_ID }}</strong> ...</p>
+                                    <!--                                    <a href="#" class="image featured"><img src={{ project.photo }} alt="" /></a>-->
+                                {% else %}
+
+                                {% endif %}
+                            </header>
+                        </div>
+                    </div>
+
+                </section>
+
+            </div>
+        </div>
+        <div class="wrapper style2">
+            <div class="inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-8 col-12-medium">
+
+                            <section class="box article-list">
+                                <h2 class="icon fa-file-alt">Functions</h2>
+
+                                <!-- generate files for this project..-->
+                                <article class="box excerpt">
+                                    <a href="#" class="image left"><img src={% static 'images/pic04.jpg' %} alt=""/></a>
+                                    <div>
+                                        <header>
+                                            <span class="date">Generate</span>
+                                            <h3><a href="#">Test 1</a></h3>
+                                        </header>
+                                        <form action="{% url 'generator' project_id=the_project.project_ID %}"
+                                              method="post">
+                                            {% csrf_token %}
+                                            <button class="button large icon solid fa-check-circle" type="submit">
+                                                generate!
+                                            </button>
+                                        </form>
+                                        <h2></h2>
+                                    </div>
+                                </article>
+
+                                <!-- transmit data on click..-->
+                                <article class="box excerpt">
+                                    <a href="#" class="image left"><img src={% static 'images/pic04.jpg' %} alt=""/></a>
+                                    <div>
+                                        <header>
+                                            <span class="date">Transmit</span>
+                                            <h3><a href="#">Test 2</a></h3>
+                                        </header>
+                                        <form action="{% url 'transmit' project_id=the_project.project_ID %}"
+                                              method="post">
+                                            {% csrf_token %}
+                                            <button class="button large icon solid fa-check-circle" type="submit">
+                                                transmit!
+                                            </button>
+                                        </form>
+                                        <h2></h2>
+                                    </div>
+                                </article>
+
+                                <!-- delete this project on click..-->
+                                <article class="box excerpt">
+                                    <a href="#" class="image left"><img src={% static 'images/pic04.jpg' %} alt=""/></a>
+                                    <div>
+                                        <header>
+                                            <span class="date">Delete</span>
+                                            <h3><a href="#">Test 3</a></h3>
+                                        </header>
+                                        <form action="{% url 'erase_project' project_id=the_project.project_ID %}"
+                                              method="post">
+                                            {% csrf_token %}
+                                            <button class="button large icon solid fa-check-circle" type="submit">
+                                                erase!
+                                            </button>
+                                        </form>
+                                        <h2></h2>
+                                    </div>
+                                </article>
+
+                            </section>
+                        </div>
+                        <div class="col-4 col-12-medium">
+
+                            <!-- Spotlight -->
+                            <section class="box spotlight">
+                                <h2 class="icon fa-file-alt">Resources</h2>
+
+                                <article>
+                                    <a href="#" class="image featured"><img src={% static 'images/pic07.jpg' %} alt=""></a>
+                                    <header>
+                                        <h3><a href="#">Templates</a></h3>
+                                        <p>Available Templates</p>
+                                    </header>
+                                    <p>Todo: zeige alle geladenen Templates von diesem User/Gruppe an!</p>
+                                    <p>xyz.</p>
+{#                                    <footer>#}
+{#                                        <a href="#" class="button alt icon solid fa-file-alt">Continue Reading</a>#}
+{#                                    </footer>#}
+                                </article>
+
+                                <article>
+                                    <a href="#" class="image featured"><img src={% static 'images/pic07.jpg' %} alt=""></a>
+                                    <header>
+                                        <h3><a href="#">Drivers</a></h3>
+                                        <p>Available Drivers</p>
+                                    </header>
+                                    <p>Todo: zeige alle geladenen Driver von diesem Projekt an!</p>
+                                    <p>xyzbnm.</p>
+{#                                    <footer>#}
+{#                                        <a href="#" class="button alt icon solid fa-file-alt">Continue Reading</a>#}
+{#                                    </footer>#}
+                                </article>
+
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="wrapper style3">
+            <div class="inner">
+
+                {% for field in the_project.Field.all %}
+
+                    <!-- Feature 2 -->
+                    <section class="container box feature2">
+                        <div class="row">
+                            <div class="col-6 col-12-medium">
+
+                                <!-- SiteField -->
+                                {% for site in field.Site.all|dictsort:'nickname' %}
+                                    <section>
+                                        <header class="major">
+                                            <h3>{{ site.name }}</h3>
+                                            <p>{{ site.desc }}</p>
+                                        </header>
+                                        {% for device in site.Device.all|dictsort:'nickname' %}
+                                            <h1>{{ device.name }} -> {{ device.desc }}</h1>
+                                            <footer>
+                                                {% for io in device.IOFunction_D.all|dictsort:'nickname' %}
+                                                    <p>{{ io.name }} -> {{ io.desc }}</p>
+                                                    <p>value -> {{ io.value }}</p>
+                                                {% endfor %}
+                                            </footer>
+                                        {% endfor %}
+                                    </section>
+                                {% endfor %}
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <!-- ControlField -->
+                                {% for controller in field.Controller.all %}
+                                    <section>
+
+                                        <header class="major">
+                                            <h3>{{ controller.name }}</h3>
+                                            <p>{{ controller.desc }}</p>
+                                        </header>
+                                        {% for module in controller.Module.all|dictsort:'slot' %}
+                                            <h1>{{ module.name }}</h1>
+                                            <footer>
+                                                {% for io in module.IOFunction_M.all|dictsort:'address' %}
+                                                    <p>{{ io.name }} -> {{ io.address }}</p>
+                                                {% endfor %}
+                                            </footer>
+                                        {% endfor %}
+                                    </section>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </section>
+                    </div>
+                {% endfor %}
+        </div>
+    </div>
+
+
+    <!-- Footer Wrapper -->
+    <div id="footer-wrapper">
+        <footer id="footer" class="container">
+            <div class="row">
+                <div class="col-3 col-6-medium col-12-small">
+                    <!-- Links -->
+                    <section>
+                        <h2>Filler Links</h2>
+                        <ul class="divided">
+                            <li><a href="#">Link 1</a></li>
+                            <li><a href="#">Link 2</a></li>
+                            <li><a href="#">Link 3</a></li>
+                        </ul>
+                    </section>
+                </div>
+
+            </div>
+        </footer>
+    </div>
+{% endblock content1 %}
+
+
+{% block content2 %}
+
+{% endblock content2 %}

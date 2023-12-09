@@ -1,0 +1,91 @@
+Projekt:
+Name:	{{ project.name }}
+Nummer:	{{ project.project_ID }}
+Creator:	{{ project.creator }}
+Photo:		{{ project.photo }}
+Users:  {% for user in project.get_users() %}{{ user.name|join(", ") }}{% endfor %}
+
+ {% for field in project.get_fields() %}
+ Feld:
+ Name:		{{ field.name }}
+ Kurzname:	{{ field.nickname }}
+ Creator:	{{ field.creator }}
+ Photo:		{{ field.photo }}
+
+  {% for site in field.get_sites() %}
+  Anlage:
+  Name:		{{ site.name }}
+  Kurzname:	{{ site.nickname }}
+  Beschrieb:	{{ site.desc }}
+
+   {% for device in site.get_devices() %}
+   Feldgerät:
+   Name:		{{ device.name }}
+   Kurzname:		{{ device.nickname }}
+   Beschrieb:		{{ device.desc }}
+   Hersteller:		{{ device.manufacturer }}
+   Typ:			{{ device.manufactureType }}
+   Funktion:		{{ device.devFunction }}
+   Photo:		{{ device.photo }}
+
+    {% for cable in device.get_cables() %}
+    Kabel:
+    Name:		{{ cable.name }}
+    Kurzname:		{{ cable.nickname }}
+    Seite:		{{ cable.page }}
+    Seitenpfad:		{{ cable.page_path }}
+    Beschrieb:		{{ cable.description }}
+    Querschnitt:	{{ cable.crossSection }}
+    {% endfor %}
+
+    {% for io in device.get_ios() %}
+    IOs
+    Name:		{{ io.name }}
+    Kurzname:		{{ io.nickname }}
+    Typ:		{{ io.objType }}
+    Hardware?:		{{ io.hardware }}
+    Beschrieb:		{{ io.desc }}
+    Kontrollfunktion:	{{ io.control }}
+    Adresse:		{{ io.address }}
+    Wert:		{{ io.value }}
+    Einheit:		{{ io.unit }}
+    {% endfor %}
+   {% endfor %}
+  {% endfor %}
+
+  {% for controller in field.get_controllers() %}
+  Steuerung:
+  Name:		{{ controller.name }}
+  Kurzname:	{{ controller.nickname }}
+  Beschrieb:	{{ controller.desc }}
+  Hersteller:	{{ controller.manufacturer }}
+  Typ:		{{ controller.manufactureType }}
+  Photo:	{{ controller.photo }}
+
+   {% for module in controller.get_modules() %}
+   Modul:
+   Name:		{{ module.name }}
+   Kurzname:		{{ module.nickname }}
+   Slotnummer:		{{ module.slot }}
+   Beschrieb:		{{ module.desc }}
+   Hersteller:		{{ module.manufacturer }}
+   Typ:			{{ module.manufactureType }}
+   Photo:		{{ module.photo }}
+
+    {% for io in module.get_ios() %}
+    IOs
+    Name:		{{ io.name }}
+    Kurzname:		{{ io.nickname }}
+    Typ:		{{ io.objType }}
+    Hardware?:		{{ io.hardware }}
+    Beschrieb:		{{ io.desc }}
+    Kontrollfunktion:	{{ io.control }}
+    Adresse:		{{ io.address }}
+    Wert:		{{ io.value }}
+    Einheit:		{{ io.unit }}
+    {% endfor %}
+   {% endfor %}
+  {% endfor %}
+ {% endfor %}
+
+
